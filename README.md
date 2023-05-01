@@ -1,4 +1,4 @@
-# Quantum Computing:Hafnian - Game
+# Quantum Computing: Hafnian 
 
 Hafnian is a mathematical concept related to the calculation of the permanent of a matrix, which has found applications in quantum computing, particularly in Gaussian Boson Sampling. However, Hafnian itself is not a programming language or a framework for quantum computing.
 
